@@ -2,5 +2,8 @@
 name = "cp-export"
 version = "0.1.0"
 edition = "2024"
+repository = "https://github.com/revival0728/cp-export/"
+license = "MIT"
+authors = ["revival0728"]
 
 [dependencies]
